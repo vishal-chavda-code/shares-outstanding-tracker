@@ -1,0 +1,28 @@
+# SEC EDGAR data access
+edgartools>=2.0.0
+sec-edgar-api>=1.0.0
+datamule>=0.1.0
+
+# Polygon.io market data
+polygon-api-client>=1.0.0
+
+# Core data processing
+requests>=2.31.0
+pandas>=2.0.0
+numpy>=1.24.0
+pyarrow>=12.0.0
+
+# Database
+sqlalchemy>=2.0.0
+psycopg2-binary>=2.9.0
+
+# Dashboard
+plotly>=5.15.0
+dash>=2.11.0
+
+# Scheduling
+schedule>=1.2.0
+
+# Configuration & logging
+python-dotenv>=1.0.0
+loguru>=0.7.0
